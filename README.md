@@ -1,10 +1,11 @@
 # CNN-GTSRB
 A simple CNN for the German Traffic Sign Recognition Benchmark(GTSRB).  
-Dependencies:
+## Dependencies:
 Numpy, scipy
 Lasagne
 Theano
-
-get_data.sh download data. Run 'sh get_data.sh' in terminal if you are in linux system.
-training.py use training data and output model to use in finalTest.py
+## Usage
+1.Download data: "get_data.sh", run 'sh get_data.sh' in terminal if you are in linux system.
+2.Train the model: "training.py"
+3.Test: "finalTest.py", use the saved model from training.py 
  
