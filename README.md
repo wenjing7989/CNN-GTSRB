@@ -1,3 +1,7 @@
+**Outdated!**   
+Theano is going to be deprecated. Try Keras, Tensorflow, Pytorch, or whatever:) 
+Welcome to this fast-changing world~ Enjoy~
+
 # CNN-GTSRB
 A simple CNN for the German Traffic Sign Recognition Benchmark(GTSRB).  
 ## Dependencies:
